@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8ea67f0d-b41b-444d-8dbf-b52273f711f6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyFirstAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyFirstAssignment.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,21 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AR_4_Arithmetic">
+    <configuration name="AR_4_Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AR_4_Arithmetic" />
+      <module name="SeleniumPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AR_5_Arithmatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AR_5_Arithmatic" />
+      <module name="SeleniumPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MyFirstAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MyFirstAssignment" />
       <module name="SeleniumPractice" />
@@ -46,6 +61,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AR_4_Arithmetic" />
+        <item itemvalue="Application.AR_5_Arithmatic" />
         <item itemvalue="Application.MyFirstAssignment" />
       </list>
     </recent_temporary>

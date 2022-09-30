@@ -16,9 +16,9 @@ public class MyFirstAssignment
         english =sc.nextByte();
         System.out.println("Please enter marks in hindi");
         hindi =sc.nextByte();
-        int total;
+        float total;
         total= math+science+geography+english+hindi;
-        float percentage= (total*100)*500;
+        float percentage= (total/500)*100;
         System.out.println("Total is "+total);
         System.out.println("The percentage is "+percentage);
 
