@@ -36,23 +36,23 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Day5_problemstring">
-    <configuration name="AR_4_Arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AR_4_Arithmetic" />
+  <component name="RunManager" selected="Application.Ar_LeapYear">
+    <configuration name="AR_SwitchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AR_SwitchPractice" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AR_5_Arithmatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AR_5_Arithmatic" />
+    <configuration name="Ar_Ifelse_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ar_Ifelse_Practice" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConvertToLowerCase" />
+    <configuration name="Ar_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ar_LeapYear" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ar_LeapYear" />
+        <item itemvalue="Application.AR_SwitchPractice" />
+        <item itemvalue="Application.Ar_Ifelse_Practice" />
         <item itemvalue="Application.Day5_problemstring" />
         <item itemvalue="Application.Day5_replace" />
-        <item itemvalue="Application.ConvertToLowerCase" />
-        <item itemvalue="Application.AR_4_Arithmetic" />
-        <item itemvalue="Application.AR_5_Arithmatic" />
       </list>
     </recent_temporary>
   </component>
