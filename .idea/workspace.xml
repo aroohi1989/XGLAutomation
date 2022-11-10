@@ -36,37 +36,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ar_LeapYear">
-    <configuration name="AR_SwitchPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AR_SwitchPractice" />
+  <component name="RunManager" selected="Application.Ar_method_practice">
+    <configuration name="AR_Array_Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AR_Array_Problem" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ar_Ifelse_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ar_Ifelse_Practice" />
+    <configuration name="AR_fibinacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AR_fibinacci" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ar_LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ar_LeapYear" />
+    <configuration name="AR_multiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AR_multiplication" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5_problemstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5_problemstring" />
+    <configuration name="Ar_Loop_Patterns" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ar_Loop_Patterns" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day5_replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5_replace" />
+    <configuration name="Ar_method_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ar_method_practice" />
       <module name="SeleniumPractice" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ar_LeapYear" />
-        <item itemvalue="Application.AR_SwitchPractice" />
-        <item itemvalue="Application.Ar_Ifelse_Practice" />
-        <item itemvalue="Application.Day5_problemstring" />
-        <item itemvalue="Application.Day5_replace" />
+        <item itemvalue="Application.Ar_method_practice" />
+        <item itemvalue="Application.AR_fibinacci" />
+        <item itemvalue="Application.AR_Array_Problem" />
+        <item itemvalue="Application.Ar_Loop_Patterns" />
+        <item itemvalue="Application.AR_multiplication" />
       </list>
     </recent_temporary>
   </component>
@@ -103,5 +103,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AR_fibinacci.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AR_fibinacci.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/AR_fibinacci.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
